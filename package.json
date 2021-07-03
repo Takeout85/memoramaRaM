@@ -1,0 +1,16 @@
+{
+  "name": "memoramaRaM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pruebas": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Braulio Quezada <t4k30ut85@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
